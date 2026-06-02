@@ -107,5 +107,5 @@ powerbi/
 ## Dashboard
 Power BI dashboard available in `/powerbi/` for visualisation of SQL-derived insights and advanced analytical reporting.
 
-<img width="1389" height="790" alt="Screenshot 2026-06-02 230412" src="https://github.com/user-attachments/assets/3a24ab43-3e4f-4a1c-ad24-62b1202f933e" />
-<img width="1273" height="714" alt="Screenshot 2026-06-02 225828" src="https://github.com/user-attachments/assets/b288411c-33a0-4ff4-a80d-4a17661ce7ab" />
+<img width="1389" height="790" alt="Screenshot 2026-06-02 230412" src="https://github.com/user-attachments/assets/cc4396b7-2655-47db-ae64-ca35bb821fdf" />
+<img width="1385" height="791" alt="Screenshot 2026-06-02 230422" src="https://github.com/user-attachments/assets/566755dd-d95f-4eeb-b10f-0945d53c0acb" />
