@@ -114,7 +114,7 @@ data/
 ├── order_items.csv
 ├── payments.csv
 ├── running_revenue.csv
-└── top_products_by_category
+└── top_products_by_category.csv
 
 sql/
 ├── adv_queries.sql
