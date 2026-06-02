@@ -113,10 +113,11 @@ data/
 ├── orders.csv
 ├── order_items.csv
 ├── payments.csv
+├── running_revenue.csv
+└── top_products_by_category
 
 sql/
-├── schema.sql
-├── sample_data.sql
+├── adv_queries.sql
 └── kpi_queries.sql
 
 powerbi/
@@ -128,4 +129,6 @@ The Power BI dashboard provides interactive business reporting built on SQL-deri
 
 <img width="1383" height="779" alt="Screenshot 2026-06-03 000318" src="https://github.com/user-attachments/assets/c418a864-d903-4009-8552-379998d347f0" />
 <img width="1386" height="787" alt="Screenshot 2026-06-03 000332" src="https://github.com/user-attachments/assets/059af570-34a5-4eca-9111-59cc2d1770cc" />
+
+Customer Details Drill-Down page: 
 <img width="1385" height="793" alt="Screenshot 2026-06-03 000342" src="https://github.com/user-attachments/assets/a5128fb0-4392-4445-b00c-9496969c6699" />
