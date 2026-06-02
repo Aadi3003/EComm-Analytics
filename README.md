@@ -27,8 +27,8 @@ The primary focus of the project is SQL-driven analytics, with Power BI used to 
 * Ranking with `RANK() OVER (PARTITION BY ...)`
 
 ## Key Insights
-* Total Revenue (Delivered Orders): ₹77K
-* Payment Success Rate: 80%
+* Total Revenue (Delivered Orders): ₹99K
+* Payment Success Rate: 65%
 * Revenue declined across the analysed period while cumulative revenue continued to grow
 * Revenue is concentrated among a small group of high-value customers
 * Significant variation exists across product categories
