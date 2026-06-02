@@ -1,6 +1,21 @@
-payment_id,order_id,payment_method,payment_status
-1,1001,UPI,success
-2,1002,Card,success
-3,1003,UPI,failed
-4,1004,COD,success
-5,1005,UPI,pending
+"payment_id";"order_id";"payment_method";"payment_status"
+1;1001;"UPI";"success"
+2;1002;"Card";"success"
+3;1003;"UPI";"failed"
+4;1004;"COD";"success"
+5;1005;"UPI";"pending"
+11;1011;"UPI";"success"
+12;1012;"Card";"success"
+13;1013;"UPI";"pending"
+14;1014;"Net Banking";"success"
+15;1015;"Card";"failed"
+16;1016;"UPI";"success"
+17;1017;"Wallet";"success"
+18;1018;"UPI";"pending"
+19;1019;"Card";"success"
+20;1020;"UPI";"success"
+21;1021;"Card";"success"
+22;1022;"UPI";"success"
+23;1023;"Wallet";"failed"
+24;1024;"Net Banking";"success"
+25;1025;"Card";"pending"

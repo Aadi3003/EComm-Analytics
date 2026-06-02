@@ -1,6 +1,16 @@
-product_id,product_name,category,price
-101,"iPhone 14",Electronics,70000.00
-102,"Running Shoes",Fashion,3000.00
-103,"Bluetooth Speaker",Electronics,2000.00
-104,T-shirt,Fashion,800.00
-105,"Whey Protein",Health,2500.00
+"product_id";"product_name";"category";"price"
+11;"Wireless Mouse";"Electronics";799.0
+12;"Gaming Keyboard";"Electronics";2499.0
+13;"Bluetooth Speaker";"Electronics";1999.0
+14;"Sports Shoes";"Fashion";2999.0
+15;"Backpack";"Fashion";1499.0
+16;"Smart Watch";"Electronics";4999.0
+17;"Coffee Maker";"Home Appliances";3499.0
+18;"Study Table";"Furniture";5999.0
+19;"Office Chair";"Furniture";4499.0
+20;"Water Bottle";"Lifestyle";499.0
+101;"iPhone 14";"Electronics";70000.0
+102;"Running Shoes";"Fashion";3000.0
+103;"Bluetooth Speaker";"Electronics";2000.0
+104;"T-shirt";"Fashion";800.0
+105;"Whey Protein";"Health";2500.0
